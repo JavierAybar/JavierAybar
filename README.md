@@ -1,17 +1,17 @@
 
+<h2 align="center">I'm Javier Aybar, a Full-Stack Developer from Argentina</h2>
+<h4 align="center">I have a strong enthusiasm for creating attractive and functional interfaces using technologies like HTML, CSS, JavaScript, React-Redux, RoR and PostgreSQL. Currently, I'm focused on learning and mastering the latest trends in software development.</h4>
 
-<p align="center">I'm Javier Aybar, a software developer specialized in Frontend. I have a strong enthusiasm for creating attractive and functional interfaces using technologies like HTML, CSS, and JavaScript. Currently, I'm focused on learning and mastering the latest trends in Frontend development.</p>
-
-### <p align="center">Technical Skills</p>
+### <h2 align="center">Technical Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind,react,redux,ruby,rails" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,ruby,rails" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,webpack,vite,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,jest,webpack,vite,postgres" />
   </a>
 </p>
 
